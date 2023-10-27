@@ -1,13 +1,17 @@
-# second-project-django-framework
+# Segundo Projeto Django Framework
 
-# Create a new project with MySQL 
-# Configuring views
-# Configuring rotes
-# Working with forms - 01
-# Sending e-mails with Django
-# Configuring Models
-# Working with forms 02 - ModelForms
-# Saving datas in database
-# Apresentation datas of database in templates
-# Working of sections of users
-# publishing in the internet my second project with Django
+## Segundo Projeto do curso de Django Framework
+Configuração de views, rotas, modelos, trabalhando com formulários, salvando dados no banco de dados e apresentando nos templates.
+
+## 🛠 Tecnologias
+
+- Python
+- Django Framework
+- Enviando e-mails com Django
+- MySQL Server
+- Git e Github
+
+## 💛 Contato
+
+dev.nycolas@outlook.com
+
